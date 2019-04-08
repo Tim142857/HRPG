@@ -1,0 +1,86 @@
+****Descriptif du jeu:
+
+Jeu vidéo par navigateur ou le but est de survivre le plus de manches face à des invasions d'ennemis(zombies?).
+Pour cela, le joueur pourra compter sur l'aide de ses cohabitants(ou pas!).
+Chaque est manche est divisée comme suit:
+Une phase d'exploration pour aller chercher des ressources dans le désert
+Une phase d'attaque des zombies
+Une phase de discussion et d'organisation ainsi que de construction des chantiers avec les survivants
+
+
+
+****But du jeu: 
+
+1er: Tenir la ville la plus longue
+autres: Record personnel/Classement ame/Classement ville/Succès
+
+
+****Multijoueur:
+
+Partie de 10 joueurs qui jouent en coopération
+
+
+****Déroulement de la partie:
+
+La partie débute dès que 10 joueurs ont rejoint la ville.
+Un chat interne a la ville permet aux joueurs de communiquer.
+Aussitot, un premier compteur de 5 min se met en route.
+
+
+Pendant ces 5 minutes, les joueurs vont pouvoir sortir de la ville afin d'aller chercher des ressources dans le désert.
+Les ressources à récolter se situent dans des coffres qui mettent plus ou moins longtemps à s'ouvrir selon la rareté des objets qu'il contient.
+Certains batiments sont présents sur la carte et contiennent des ressources plus rares. Voir section ruines
+
+Au bout de 5 minutes, une alarme se déclenche et il reste alors 30s aux joueurs pour se cacher afin de survivre à la première vague de zombies.
+Le moyen le plus simple de se cacher étant de rentrer en ville, il existe néanmoins d'autres moyens de survivre aux vagues de zombies. Voir section se cacher
+
+L'attaque dure 30s. Au bout de ces 30s, un récapitulatif montre le résultat de l'attaque. 
+La porte de la ville doit obligatoirement etre fermée avant le début de l'attaque, sinon le score de défense de la ville n'est pas pris en compte et tous les zombies entrent en ville
+Si la force des zombies est supérieure au score de défense de la ville, certains zombies passent par dessus les murailles et attaquent aléatoirement des habitants qui alors perdent de la vie ou meurent
+Chaque habitant possède aussi une abritation personnelle possédant un score de défense propre qui est pris en compte si des zombies passent.
+
+
+Après le rapport de l'attaque, une nouvelle phase de 1 minute permet aux habitants de s'organiser et de commencer a travailler aux chantiers en fonction des ressources ramenées.
+Les chantiers coutent des ressources (présentes en banque) ainsi que du temps de fabrication. 
+Il est donc optimisé de diviser les joueurs en 2 groupes, un de travail et un d'exploration
+
+
+A la fin de cette phase, les portes s'ouvrent  et une nouveau tour commence. Les tours s'enchainent jusqu'a ce que le dernier habitant meure. Il obtient ainsi la distinction de Mort Ultime
+
+
+*Chantiers
+Les chantiers sont des batiments à créer/développer en ville et qui permettent principalement d'augmenter le score de défense de la ville.
+
+Les chantiers sont divisès en plusieurs types:
+
+-Chantiers augmentant la défense de la ville
+-Chantiers permettant d'obtenir des avantages(+ de temps dexploration, attaques moins puissantes, ...)
+-Chantiers inutiles ou presque dont le seul but est d'obtenir certains succès
+
+
+*Succès
+Les succès sont une part importante du jeu et visible sur le profil de chaque joueur.
+Ils peuvent etre obtenus de plein de manières différentes: Explorations, survie, certains types de mort,...
+Certains vont clairement dans le sens contraire de la survie. Il ne faudra pas avoir peur de la potence si vous voulez les obtenir.
+
+*Exploration
+
+Le désert est composé de:
+
+-Coffres: Du lvl1 au lvl3, ils contiennent la plupart du temps des ressources de la rareté correspondant au level du coffre. Celui-ci influe aussi sur le temps de déverouillage du coffre
+			Les coffres peuvent (moins souvent) contenir des plans de nouveau chantiers mais aussi des pièges ou autres mécanismes qui feront perdre de la vie au joueur qui l'ouvre
+			
+-Certaines cases peuvent contenir des pièges qui blesseront le joueur qui marche dessus. Des zombies peuvent aussi apparaitre rarement
+
+-Ruines: Batiments rares présents dans le désert et qu'il est possible d'explorer. Ces batiments contiennent au moins un plan ainsi que des ressurces de qualité. 
+		Néanmoins, il n'est pas rare que ces batiments abritent une certaine quantité de zombie. L'exploration de ces batiments n'est conseillée que si vous etes bien équipées pour y entrer.
+		Ces batiments étant dans un état délabré et très fréquenté, la présence d'oxygène y est très faible. Vous ne pourrez donc n'y rester qu'un certain temps avant de mourir d'étouffement
+		
+		
+-Se cacher: Afin de survivre aux différentes phases d'attaque, il existe plusieurs moyens de se cacher, le plus simple étant de rentrer en ville s'y abriter.
+			Il est possible de se cacher dans une ruine lors de la phase d'attaque. Néanmoins, il ne sera pas possible de l'explorer pendant ce temps et le temps d'oxygène continuera d'etre décompté
+			En cas d'extrême urgence, il est aussi possible de camper dans le désert. Les chances de survie sont proches de 0, mais certains objets trouvés peuvent augmenter ces chances(max de 50%)
+			
+			
+			
+		

@@ -18,7 +18,7 @@ module.exports = config:
     stylesheets: joinTo: 'styles/client.css'
 
   server:
-    path: './server/httpServer.js'
+    path: './server/app.js'
     run: yes
     port: 9192
 
